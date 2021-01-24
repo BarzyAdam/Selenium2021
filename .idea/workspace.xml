@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1eb11fcd-cdd3-4484-8dcc-f9555f40e7a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cm7rlHRsqtHkkJrHefJjFeqyC8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.WindowsTaps5.p5_window_handle_practice">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day02_findElement_getText_getAttribute.test" />
+      <module name="seleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day02_findElement_getText_getAttribute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ALertprac4.p1_information_alert_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.Day08_Alerts_iframes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.Day08_Alerts_iframes" />
+      <option name="MAIN_CLASS_NAME" value="test.Day08_Alerts_iframes.ALertprac4" />
+      <option name="METHOD_NAME" value="p1_information_alert_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Actions3.Test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day10_jsExecutor_Upload_Action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day10_jsExecutor_Upload_Action" />
+      <option name="MAIN_CLASS_NAME" value="test.day10_jsExecutor_Upload_Action.Actions3" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowsTaps5.p5_window_handle_practice" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.Day08_Alerts_iframes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.Day08_Alerts_iframes" />
+      <option name="MAIN_CLASS_NAME" value="test.Day08_Alerts_iframes.WindowsTaps5" />
+      <option name="METHOD_NAME" value="p5_window_handle_practice" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task15_Cybertek_4.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day10_jsExecutor_Upload_Action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day10_jsExecutor_Upload_Action" />
+      <option name="MAIN_CLASS_NAME" value="test.day10_jsExecutor_Upload_Action.task15_Cybertek_4" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.WindowsTaps5.p5_window_handle_practice" />
+        <item itemvalue="TestNG.ALertprac4.p1_information_alert_test" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="TestNG.task15_Cybertek_4.test" />
+        <item itemvalue="TestNG.Actions3.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1eb11fcd-cdd3-4484-8dcc-f9555f40e7a5" name="Default Changelist" comment="" />
+      <created>1591122115923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591122115923</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="302" key="GridCell.Tab.0.bottom" timestamp="1611194147943">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="302" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1611194147943" />
+    <state width="1878" height="302" key="GridCell.Tab.0.bottom/0.25.1280.775/1280.0.1920.1080@1280.0.1920.1080" timestamp="1605889344891" />
+    <state width="1878" height="302" key="GridCell.Tab.0.center" timestamp="1611194147942">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="302" key="GridCell.Tab.0.center/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1611194147942" />
+    <state width="1878" height="302" key="GridCell.Tab.0.center/0.25.1280.775/1280.0.1920.1080@1280.0.1920.1080" timestamp="1605889344889" />
+    <state width="1878" height="302" key="GridCell.Tab.0.left" timestamp="1611194147941">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="302" key="GridCell.Tab.0.left/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1611194147941" />
+    <state width="1878" height="302" key="GridCell.Tab.0.left/0.25.1280.775/1280.0.1920.1080@1280.0.1920.1080" timestamp="1605889344889" />
+    <state width="1878" height="302" key="GridCell.Tab.0.right" timestamp="1611194147942">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="302" key="GridCell.Tab.0.right/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1611194147942" />
+    <state width="1878" height="302" key="GridCell.Tab.0.right/0.25.1280.775/1280.0.1920.1080@1280.0.1920.1080" timestamp="1605889344890" />
+  </component>
+</project>
